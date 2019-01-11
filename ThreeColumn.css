@@ -1,0 +1,56 @@
+/*
+* Charlotte Bischof 
+* Due Date
+* Project Name and Description
+*/
+
+/* The universal selector */
+
+* { padding: 0;
+margin: 0; }
+
+/* Body attributes here */
+
+body {
+    width: 964px;
+    background-color: white;
+    margin: 15px auto;
+    border: 1px solid black;
+
+}
+
+header {
+    border-bottom: 2px solid #ef9c00;
+    
+    
+}
+nav {
+    width: 180px;
+    height: 400px;
+    float: left;
+    border-right: 2px solid #ef9c00;
+
+
+}
+
+main {
+    width: 600px;
+    float: left;
+
+}
+
+aside {
+    width: 180px;
+    height: 400px;
+    float: left;
+    border-left: 2px solid #ef9c00;
+
+}
+
+footer {
+    
+    border-top: 2px solid #ef9c00;
+        clear: both; 
+    
+    
+}
